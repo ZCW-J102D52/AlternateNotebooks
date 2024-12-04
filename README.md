@@ -3,7 +3,7 @@ research into things other than Jupyter Notebook
 
 ### Group Research
 
-Divide into groups of three. 
+Each person choose a notebook. 
 
 Talk with an instructor to lock in your groups.
 
@@ -20,6 +20,7 @@ Create a simple Google Slides presentation on the notebook projects/products you
 - 4: Contrast against Jupyter, what does it do that is really different
 - 5: Explain where you might use this instead of Jupyter
 - 6: Give a recommendation as to whether or not you'd like to use it.
+- 7: Summary of the overall recommendations of the group.
 
 ### Demonstration
 
